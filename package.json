@@ -1,0 +1,15 @@
+{
+  "name": "tv-series-app",
+  "version": "1.0.0",
+  "description": "A simple app to manage TV series",
+  "main": "index.js",
+  "scripts": {
+      "build": "tsc",
+      "start": "lite-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+      "lite-server": "^2.5.4",
+      "typescript": "^4.3.5"
+  }
+}
